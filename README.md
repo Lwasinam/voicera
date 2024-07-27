@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/fb6ef33e-7ae8-45e6-b941-41b4b264be47
+
 # Voicera: A Text-to-Speech Model
 
 "Voicera" is a text-to-speech (TTS) model designed for generating speech from written text. It uses a GPT-2 type architecture, which helps in creating natural and expressive speech. 
@@ -17,11 +21,7 @@ Voicera aims to provide clear and understandable speech, focusing on natural pro
 
 ## Demo
 
-Here are some samples of the current state of Voicera's outputs:
-
-1. **Sample 1**: [Generated Audio](https://github.com/Lwasinam/voicera/blob/master/examples/base_txt10_0.wav)
-2. **Sample 2**: [Generated Audio](link-to-audio-sample-2)
-3. **Sample 3**: [Generated Audio](link-to-audio-sample-3)
+The video above shows the model capabilities 
 
 ## Getting Started
 
@@ -31,5 +31,8 @@ Here are colab link to all 3 respectively
 1. [Base Model](https://colab.research.google.com/drive/10nPKliRs1C3ofv2J16_HGDlmzfd-yBtj#scrollTo=r17orAuZ45Q2)
 2. [Jenny-Finetune](https://colab.research.google.com/drive/1MSzGGqIhGYVCn76alsX9oBzwC4EtOQSR#scrollTo=Oz0DG-MtovBw)
 3. [Expresso-Finetune](https://colab.research.google.com/drive/1wzwSOtpT1CpEMvbcjvvgEKQZoQa5bX2p#scrollTo=YrBUwCNYmmUW&uniqifier=1)
+
+## This whole model was trained on a notebook on kaggle, here's the link to the kaggle notebook
+[Notebook](https://www.kaggle.com/code/dillisecond/tts-snac-base/edit)
 
 
