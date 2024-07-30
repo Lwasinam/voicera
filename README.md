@@ -34,6 +34,6 @@ Here are colab link to all 3 respectively
 3. [Expresso-Finetune](https://colab.research.google.com/drive/1wzwSOtpT1CpEMvbcjvvgEKQZoQa5bX2p#scrollTo=YrBUwCNYmmUW&uniqifier=1)
 
 ## This whole model was trained on a notebook on kaggle, here's the link to the kaggle notebook
-[Notebook](https://www.kaggle.com/code/dillisecond/tts-snac-base/edit)
+[Notebook](https://www.kaggle.com/code/dillisecond/tts-snac-base)
 
 
